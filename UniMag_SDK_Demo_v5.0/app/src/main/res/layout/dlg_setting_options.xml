@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<Button android:text="BACK" android:id="@+id/dlg_btnBack" android:layout_width="fill_parent" android:layout_height="37sp"></Button>
+<Button android:text="Get Version" android:id="@+id/dlg_btnGetVersion" android:layout_width="fill_parent" android:layout_height="37sp"></Button>
+<Button android:text="Get Setting" android:id="@+id/dlg_btnGetSetting" android:layout_width="fill_parent" android:layout_height="37sp"></Button>
+<Button android:text="Get Serial Number" android:id="@+id/dlg_btnGetSerialNumber" android:layout_width="fill_parent" android:layout_height="37sp"></Button>
+</LinearLayout>

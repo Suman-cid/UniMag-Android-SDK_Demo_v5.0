@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/res/merged/debug/layout_file_dialog_row.xml.flat",
+        "source": "/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/res/layout/file_dialog_row.xml"
+    },
+    {
+        "merged": "/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/res/merged/debug/layout_dlg_edit_text_box.xml.flat",
+        "source": "/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/res/layout/dlg_edit_text_box.xml"
+    },
+    {
+        "merged": "/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/res/merged/debug/drawable-hdpi_file.png.flat",
+        "source": "/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/res/drawable-hdpi/file.png"
+    },
+    {
+        "merged": "/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/res/merged/debug/drawable-hdpi_separator.png.flat",
+        "source": "/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/res/drawable-hdpi/separator.png"
+    },
+    {
+        "merged": "/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/res/merged/debug/layout_dlgtopview2bnt.xml.flat",
+        "source": "/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/res/layout/dlgtopview2bnt.xml"
+    },
+    {
+        "merged": "/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/res/merged/debug/drawable-hdpi_idtech_logo.png.flat",
+        "source": "/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/res/drawable-hdpi/idtech_logo.png"
+    },
+    {
+        "merged": "/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/res/merged/debug/drawable-mdpi_icon.png.flat",
+        "source": "/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/res/merged/debug/drawable-hdpi_folder.png.flat",
+        "source": "/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/res/drawable-hdpi/folder.png"
+    },
+    {
+        "merged": "/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/res/merged/debug/layout_dlgswipetopview.xml.flat",
+        "source": "/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/res/layout/dlgswipetopview.xml"
+    },
+    {
+        "merged": "/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/res/merged/debug/layout_dlgtopview.xml.flat",
+        "source": "/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/res/layout/dlgtopview.xml"
+    },
+    {
+        "merged": "/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/res/merged/debug/drawable-hdpi_logo.png.flat",
+        "source": "/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/res/drawable-hdpi/logo.png"
+    },
+    {
+        "merged": "/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/res/merged/debug/layout_file_dialog_main.xml.flat",
+        "source": "/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/res/layout/file_dialog_main.xml"
+    },
+    {
+        "merged": "/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat",
+        "source": "/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/res/merged/debug/layout_dlg_setting_options.xml.flat",
+        "source": "/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/res/layout/dlg_setting_options.xml"
+    },
+    {
+        "merged": "/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_bk.png.flat",
+        "source": "/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/res/drawable-hdpi/btn_bk.png"
+    },
+    {
+        "merged": "/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/res/merged/debug/drawable-ldpi_icon.png.flat",
+        "source": "/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/res/merged/debug/layout_dlgview.xml.flat",
+        "source": "/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/res/layout/dlgview.xml"
+    },
+    {
+        "merged": "/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/res/merged/debug/drawable-hdpi_edit_bk.png.flat",
+        "source": "/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/res/drawable-hdpi/edit_bk.png"
+    },
+    {
+        "merged": "/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/res/merged/debug/drawable-hdpi_blank.png.flat",
+        "source": "/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/res/drawable-hdpi/blank.png"
+    },
+    {
+        "merged": "/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/res/merged/debug/raw_idt_unimagcfg_default.xml.flat",
+        "source": "/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/res/raw/idt_unimagcfg_default.xml"
+    }
+]

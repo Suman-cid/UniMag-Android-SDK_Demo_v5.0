@@ -1,0 +1,4 @@
+#Fri Jan 04 13:59:12 PST 2019
+base.0=/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex

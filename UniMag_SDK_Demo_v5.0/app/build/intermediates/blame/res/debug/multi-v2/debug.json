@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "13,12,3,9,5,10,8,4,6,11,7",
+                        "startColumns": "1,1,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "517,479,60,356,160,398,307,114,228,438,265",
+                        "endLines": "16,12,3,9,5,10,8,4,6,11,7",
+                        "endColumns": "16,37,53,41,67,39,48,45,36,43,41",
+                        "endOffsets": "693,515,109,393,223,433,351,155,260,477,302"
+                    },
+                    "to": {
+                        "startLines": "2,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,236,277,331,373,441,481,530,576,613,657",
+                        "endLines": "5,6,7,8,9,10,11,12,13,14,15",
+                        "endColumns": "16,40,53,41,67,39,48,45,36,43,41",
+                        "endOffsets": "231,272,326,368,436,476,525,571,608,652,694"
+                    }
+                }
+            ]
+        }
+    ]
+}

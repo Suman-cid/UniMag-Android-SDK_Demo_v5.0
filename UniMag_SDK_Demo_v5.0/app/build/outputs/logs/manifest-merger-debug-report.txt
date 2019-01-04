@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml:3:7-39
+		INJECTED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml
+		INJECTED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml:4:7-45
+		INJECTED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml
+		INJECTED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml:5:7-31
+		INJECTED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml
+		INJECTED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml:8:5-70
+	android:name
+		ADDED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml:8:22-68
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml:9:2-80
+	android:name
+		ADDED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml:9:19-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml:10:2-77
+	android:name
+		ADDED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml:10:19-75
+uses-permission#android.permission.INTERNET
+ADDED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml:11:2-63
+	android:name
+		ADDED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml:11:19-61
+supports-screens
+ADDED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml:13:2-50
+	android:largeScreens
+		ADDED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml:13:20-47
+application
+ADDED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml:15:5-35:19
+	android:label
+		ADDED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml:17:9-41
+	android:debuggable
+		ADDED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml:19:9-35
+	android:icon
+		ADDED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml:16:9-38
+	android:allowBackup
+		ADDED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml:18:9-35
+activity#idtech.msr.unimag.demo.uniMagIIDemo
+ADDED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml:21:9-32:20
+	android:screenOrientation
+		ADDED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml:25:4-40
+	android:label
+		ADDED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml:23:10-42
+	android:launchMode
+		ADDED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml:26:10-41
+	android:theme
+		ADDED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml:24:4-46
+	android:name
+		ADDED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml:22:13-63
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml:29:27-74
+activity#idtech.msr.unimag.demo.FileDialog
+ADDED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml:33:9-79
+	android:name
+		ADDED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml:33:19-67
+uses-sdk
+INJECTED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml
+INJECTED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml
+INJECTED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml
+INJECTED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml
+		ADDED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml
+		INJECTED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml
+		ADDED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml
+		INJECTED from /home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/src/main/AndroidManifest.xml
