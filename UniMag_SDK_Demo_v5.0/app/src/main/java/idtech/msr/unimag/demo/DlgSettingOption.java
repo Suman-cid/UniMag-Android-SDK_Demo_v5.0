@@ -1,8 +1,9 @@
 package idtech.msr.unimag.demo;
 
 import IDTech.MSR.uniMag.Demo.R;
-import IDTech.MSR.uniMag.uniMagReader;
-import IDTech.MSR.uniMag.uniMagReaderMsg;
+import idtech.msr.unimag.uniMagReader;
+import idtech.msr.unimag.uniMagReaderMsg;
+
 import android.app.Dialog;
 import android.util.Log;
 import android.view.Gravity;

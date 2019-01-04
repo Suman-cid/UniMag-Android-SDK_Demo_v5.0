@@ -3,13 +3,14 @@ package idtech.msr.unimag.demo;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-import IDTech.MSR.XMLManager.StructConfigParameters;
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.os.Handler;
 import android.util.Log;
+
+import idtech.msr.xmlmanager.StructConfigParameters;
 
 public class ProfileDatabase {
 	private SQLiteDatabase myDb = null;

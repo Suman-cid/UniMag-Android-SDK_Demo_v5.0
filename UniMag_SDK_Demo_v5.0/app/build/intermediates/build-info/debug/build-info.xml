@@ -2,13 +2,14 @@
 <instant-run
     abi="armeabi-v7a,armeabi"
     api-level="23"
-    build-mode="FULL"
+    build-mode="COLD"
     density="mdpi"
     format="10"
+    ir-eligibility="COMPATIBLE"
     plugin-version="3.2.1"
-    timestamp="1546639150849"
+    timestamp="1546641428175"
     token="-2525481356415748058"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
@@ -18,40 +19,13 @@
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="118" />
+        duration="12" />
     <task
         name="verifier"
-        duration="7" />
+        duration="3" />
 
     <artifact
-        location="/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
-        type="SPLIT" />
-    <artifact
         location="/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
         type="SPLIT" />
     <artifact
         location="/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
@@ -62,37 +36,73 @@
 
     <build
         build-mode="FULL"
-        timestamp="1546639150849"
+        timestamp="1546640629202"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            location="/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            location="/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
             location="/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            location="/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
             location="/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            location="/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
             location="/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
             location="/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="COMPATIBLE"
+        timestamp="1546640812275"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="STATIC_INITIALIZER_CHANGE"
+        timestamp="1546641043563"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="COMPATIBLE"
+        timestamp="1546641428175"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
             location="/home/suman/Downloads/work/tmp/UniMag-Android-SDK_Demo_v5.0/UniMag_SDK_Demo_v5.0/app/build/intermediates/split-apk/debug/slices/slice_9.apk"

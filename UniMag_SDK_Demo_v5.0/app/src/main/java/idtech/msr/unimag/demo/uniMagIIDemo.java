@@ -3,15 +3,6 @@ import java.io.File;
 import java.io.FileOutputStream;
 import java.io.InputStream;
 
-import IDTech.MSR.XMLManager.StructConfigParameters;
-import IDTech.MSR.uniMag.Common;
-import IDTech.MSR.uniMag.Demo.R;
-import IDTech.MSR.uniMag.StateList;
-import IDTech.MSR.uniMag.uniMagReader;
-import IDTech.MSR.uniMag.uniMagReaderMsg;
-import IDTech.MSR.uniMag.UniMagTools.uniMagReaderToolsMsg;
-import IDTech.MSR.uniMag.UniMagTools.uniMagSDKTools;
-import IDTech.MSR.uniMag.uniMagReader.ReaderType;
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.app.Dialog;
@@ -37,6 +28,16 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 import android.widget.TextView.BufferType;
+
+import IDTech.MSR.uniMag.Demo.R;
+import idtech.msr.unimag.Common;
+import idtech.msr.unimag.StateList;
+import idtech.msr.unimag.uniMagReader;
+import idtech.msr.unimag.uniMagReaderMsg;
+import idtech.msr.unimag.unimagtools.uniMagReaderToolsMsg;
+import idtech.msr.unimag.unimagtools.uniMagSDKTools;
+import idtech.msr.xmlmanager.ReaderType;
+import idtech.msr.xmlmanager.StructConfigParameters;
 /*
  * 
  * File name: 	uniMagIIDemo.java
@@ -50,7 +51,7 @@ import android.widget.TextView.BufferType;
 
 // interface uniMagReaderMsg should be implemented
 // if firmware download is supported, uniMagReaderToolsMsg also needs to be implemented 
-public class uniMagIIDemo extends Activity implements  uniMagReaderMsg ,uniMagReaderToolsMsg{
+public class uniMagIIDemo extends Activity implements uniMagReaderMsg,uniMagReaderToolsMsg {
 
 	// declaring the instance of the uniMagReader;
 	private uniMagReader myUniMagReader = null;

@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/UniMag_SDK_Demo_v5.0.iml" filepath="$PROJECT_DIR$/UniMag_SDK_Demo_v5.0.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unimag/unimag.iml" filepath="$PROJECT_DIR$/unimag/unimag.iml" />
     </modules>
   </component>
 </project>
